@@ -1,12 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hello World</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BLS CPI Data — 1978–2026</title>
+  <link rel="stylesheet" href="app.css" />
 </head>
 <body>
-  <h1>Hello, World!</h1>
+  <div id="app">
+    <header class="app-header">
+      <div class="header-left">
+        <h1>BLS CPI Data — 1978–2026</h1>
+        <span id="row-count" class="row-count"></span>
+      </div>
+    </header>
+
+    <div class="filter-bar">
+      <div class="filter-group">
+        <label for="filter-category">Category</label>
+        <select id="filter-category">
+          <option value="">All Categories</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filter-subcategory">Subcategory</label>
+        <select id="filter-subcategory">
+          <option value="">All Subcategories</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filter-month">Month</label>
+        <select id="filter-month">
+          <option value="">All Months</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filter-year">Year</label>
+        <select id="filter-year">
+          <option value="">All Years</option>
+        </select>
+      </div>
+      <button id="btn-clear" class="btn-clear">Clear Filters</button>
+    </div>
+
+    <div class="table-wrapper">
+      <div id="loading" class="status-message">
+        <div class="spinner"></div>
+        <span>Loading data…</span>
+      </div>
+
+      <div id="error" class="status-message error hidden">
+        <div id="error-text"></div>
+        <div class="error-help">
+          Place a <code>data.json</code> or <code>data.csv</code> file in the same folder as
+          <code>index.html</code>.<br />
+          Expected format: an array of objects (JSON) or a CSV with a header row containing
+          columns named <strong>Category</strong>, <strong>Subcategory</strong>,
+          <strong>Month</strong>, <strong>Year</strong>, and <strong>Value</strong>.
+        </div>
+      </div>
+
+      <table id="data-table" class="hidden">
+        <thead><tr id="table-head-row"></tr></thead>
+        <tbody id="table-body"></tbody>
+      </table>
+
+      <div id="no-results" class="status-message hidden">
+        No records match the selected filters.
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
 </body>
 </html>
-

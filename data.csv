@@ -1,0 +1,241 @@
+BLS CPI-U Series Data — U.S. City Average (2026),,,,,,,,
+"Source: U.S. Bureau of Labor Statistics (BLS) Public Data API v2  |  ""-"" indicates data not available for that period (retained)",,,,,,,,
+Series ID,Category,Subcategory,Seasonal Adj.,Notes,Year,Period,Month,CPI Value
+CUSR0000SA0,All Items,All Items,Seas. Adj.,Seasonally adjusted headline CPI,2026,M01,Jan,326.588
+CUSR0000SA0,All Items,All Items,Seas. Adj.,Seasonally adjusted headline CPI,2026,M02,Feb,327.460
+CUSR0000SA0,All Items,All Items,Seas. Adj.,Seasonally adjusted headline CPI,2026,M03,Mar,330.293
+CUSR0000SA0LE,All Items,All Items Less Food & Energy (Core CPI),Seas. Adj.,Seasonally adj. core CPI,2026,M01,Jan,333.716
+CUSR0000SA0LE,All Items,All Items Less Food & Energy (Core CPI),Seas. Adj.,Seasonally adj. core CPI,2026,M02,Feb,334.523
+CUSR0000SA0LE,All Items,All Items Less Food & Energy (Core CPI),Seas. Adj.,Seasonally adj. core CPI,2026,M03,Mar,335.079
+CUUR0000SA0,All Items,All Items,Not Adj.,Broadest headline CPI measure; base series,2026,M01,Jan,325.252
+CUUR0000SA0,All Items,All Items,Not Adj.,Broadest headline CPI measure; base series,2026,M02,Feb,326.785
+CUUR0000SA0,All Items,All Items,Not Adj.,Broadest headline CPI measure; base series,2026,M03,Mar,330.213
+CUUR0000SA0L1,All Items,All Items Less Food,Not Adj.,,2026,M01,Jan,322.176
+CUUR0000SA0L1,All Items,All Items Less Food,Not Adj.,,2026,M02,Feb,323.729
+CUUR0000SA0L1,All Items,All Items Less Food,Not Adj.,,2026,M03,Mar,327.629
+CUUR0000SA0L2,All Items,All Items Less Shelter,Not Adj.,,2026,M01,Jan,291.172
+CUUR0000SA0L2,All Items,All Items Less Shelter,Not Adj.,,2026,M02,Feb,292.826
+CUUR0000SA0L2,All Items,All Items Less Shelter,Not Adj.,,2026,M03,Mar,296.952
+CUUR0000SA0L5,All Items,All Items Less Medical,Not Adj.,,2026,M01,Jan,312.457
+CUUR0000SA0L5,All Items,All Items Less Medical,Not Adj.,,2026,M02,Feb,313.947
+CUUR0000SA0L5,All Items,All Items Less Medical,Not Adj.,,2026,M03,Mar,317.558
+CUUR0000SA0LE,All Items,All Items Less Food & Energy (Core CPI),Not Adj.,Most-watched 'core' inflation metric,2026,M01,Jan,332.980
+CUUR0000SA0LE,All Items,All Items Less Food & Energy (Core CPI),Not Adj.,Most-watched 'core' inflation metric,2026,M02,Feb,334.284
+CUUR0000SA0LE,All Items,All Items Less Food & Energy (Core CPI),Not Adj.,Most-watched 'core' inflation metric,2026,M03,Mar,335.301
+CUUR0000SAA,Apparel,Apparel (total),Not Adj.,,2026,M01,Jan,130.685
+CUUR0000SAA,Apparel,Apparel (total),Not Adj.,,2026,M02,Feb,136.132
+CUUR0000SAA,Apparel,Apparel (total),Not Adj.,,2026,M03,Mar,138.582
+CUUR0000SAA1,Apparel,Men's & Boys' Apparel,Not Adj.,,2026,M01,Jan,129.240
+CUUR0000SAA1,Apparel,Men's & Boys' Apparel,Not Adj.,,2026,M02,Feb,134.457
+CUUR0000SAA1,Apparel,Men's & Boys' Apparel,Not Adj.,,2026,M03,Mar,134.517
+CUUR0000SAA2,Apparel,Women's & Girls' Apparel,Not Adj.,,2026,M01,Jan,105.952
+CUUR0000SAA2,Apparel,Women's & Girls' Apparel,Not Adj.,,2026,M02,Feb,113.082
+CUUR0000SAA2,Apparel,Women's & Girls' Apparel,Not Adj.,,2026,M03,Mar,116.834
+CUUR0000SEAA,Apparel,Men's Apparel,Not Adj.,,2026,M01,Jan,131.651
+CUUR0000SEAA,Apparel,Men's Apparel,Not Adj.,,2026,M02,Feb,136.966
+CUUR0000SEAA,Apparel,Men's Apparel,Not Adj.,,2026,M03,Mar,137.388
+CUUR0000SEAB,Apparel,Boys' Apparel,Not Adj.,,2026,M01,Jan,117.876
+CUUR0000SEAB,Apparel,Boys' Apparel,Not Adj.,,2026,M02,Feb,122.632
+CUUR0000SEAB,Apparel,Boys' Apparel,Not Adj.,,2026,M03,Mar,121.394
+CUUR0000SEAC,Apparel,Women's Apparel,Not Adj.,,2026,M01,Jan,107.084
+CUUR0000SEAC,Apparel,Women's Apparel,Not Adj.,,2026,M02,Feb,114.218
+CUUR0000SEAC,Apparel,Women's Apparel,Not Adj.,,2026,M03,Mar,118.418
+CUUR0000SEAD,Apparel,Girls' Apparel,Not Adj.,,2026,M01,Jan,101.542
+CUUR0000SEAD,Apparel,Girls' Apparel,Not Adj.,,2026,M02,Feb,108.751
+CUUR0000SEAD,Apparel,Girls' Apparel,Not Adj.,,2026,M03,Mar,110.206
+CUUR0000SEAE,Apparel,Footwear,Not Adj.,,2026,M01,Jan,146.563
+CUUR0000SEAE,Apparel,Footwear,Not Adj.,,2026,M02,Feb,148.637
+CUUR0000SEAE,Apparel,Footwear,Not Adj.,,2026,M03,Mar,150.370
+CUUR0000SAE,Education & Communication,Education & Communication (total),Not Adj.,,2026,M01,Jan,146.883
+CUUR0000SAE,Education & Communication,Education & Communication (total),Not Adj.,,2026,M02,Feb,146.533
+CUUR0000SAE,Education & Communication,Education & Communication (total),Not Adj.,,2026,M03,Mar,146.668
+CUUR0000SAE1,Education & Communication,Education,Not Adj.,,2026,M01,Jan,314.649
+CUUR0000SAE1,Education & Communication,Education,Not Adj.,,2026,M02,Feb,314.879
+CUUR0000SAE1,Education & Communication,Education,Not Adj.,,2026,M03,Mar,315.336
+CUUR0000SAE2,Education & Communication,Communication,Not Adj.,,2026,M01,Jan,72.170
+CUUR0000SAE2,Education & Communication,Communication,Not Adj.,,2026,M02,Feb,71.819
+CUUR0000SAE2,Education & Communication,Communication,Not Adj.,,2026,M03,Mar,71.854
+CUUR0000SEEA,Education & Communication,College Tuition & Fees,Not Adj.,,2026,M03,Mar,766.838
+CUUR0000SEEB,Education & Communication,Elementary & High School Tuition,Not Adj.,,2026,M01,Jan,905.102
+CUUR0000SEEB,Education & Communication,Elementary & High School Tuition,Not Adj.,,2026,M02,Feb,905.979
+CUUR0000SEEB,Education & Communication,Elementary & High School Tuition,Not Adj.,,2026,M03,Mar,907.156
+CUUR0000SEEC,Education & Communication,Child Care & Nursery School,Not Adj.,,2026,M01,Jan,264.140
+CUUR0000SEEC,Education & Communication,Child Care & Nursery School,Not Adj.,,2026,M02,Feb,263.504
+CUUR0000SEEC,Education & Communication,Child Care & Nursery School,Not Adj.,,2026,M03,Mar,264.064
+CUUR0000SEED,Education & Communication,Postage & Delivery Services,Not Adj.,,2026,M01,Jan,91.313
+CUUR0000SEED,Education & Communication,Postage & Delivery Services,Not Adj.,,2026,M02,Feb,91.306
+CUUR0000SEED,Education & Communication,Postage & Delivery Services,Not Adj.,,2026,M03,Mar,91.762
+CUUR0000SEEE,Education & Communication,Telephone Services,Not Adj.,,2026,M01,Jan,6.785
+CUUR0000SEEE,Education & Communication,Telephone Services,Not Adj.,,2026,M02,Feb,6.724
+CUUR0000SEEE,Education & Communication,Telephone Services,Not Adj.,,2026,M03,Mar,6.701
+CUUR0000SA0E,Energy,Energy (total),Not Adj.,Volatile; excluded from core CPI,2026,M01,Jan,272.668
+CUUR0000SA0E,Energy,Energy (total),Not Adj.,Volatile; excluded from core CPI,2026,M02,Feb,277.179
+CUUR0000SA0E,Energy,Energy (total),Not Adj.,Volatile; excluded from core CPI,2026,M03,Mar,310.280
+CUUR0000SACE,Energy,Core Services Less Rent,Not Adj.,Fed's preferred services inflation gauge,2026,M01,Jan,262.636
+CUUR0000SACE,Energy,Core Services Less Rent,Not Adj.,Fed's preferred services inflation gauge,2026,M02,Feb,272.012
+CUUR0000SACE,Energy,Core Services Less Rent,Not Adj.,Fed's preferred services inflation gauge,2026,M03,Mar,339.203
+CUUR0000SAF,Food & Beverages,Food & Beverages (total),Not Adj.,,2026,M01,Jan,342.096
+CUUR0000SAF,Food & Beverages,Food & Beverages (total),Not Adj.,,2026,M02,Feb,343.424
+CUUR0000SAF,Food & Beverages,Food & Beverages (total),Not Adj.,,2026,M03,Mar,343.691
+CUUR0000SAF1,Food & Beverages,Food (total),Not Adj.,,2026,M01,Jan,345.165
+CUUR0000SAF1,Food & Beverages,Food (total),Not Adj.,,2026,M02,Feb,346.564
+CUUR0000SAF1,Food & Beverages,Food (total),Not Adj.,,2026,M03,Mar,346.796
+CUUR0000SAF11,Food & Beverages,Food at Home,Not Adj.,Grocery / supermarket spending,2026,M01,Jan,317.431
+CUUR0000SAF11,Food & Beverages,Food at Home,Not Adj.,Grocery / supermarket spending,2026,M02,Feb,318.898
+CUUR0000SAF11,Food & Beverages,Food at Home,Not Adj.,Grocery / supermarket spending,2026,M03,Mar,318.755
+CUUR0000SAF111,Food & Beverages,Cereals & Bakery Products,Not Adj.,,2026,M01,Jan,366.830
+CUUR0000SAF111,Food & Beverages,Cereals & Bakery Products,Not Adj.,,2026,M02,Feb,367.174
+CUUR0000SAF111,Food & Beverages,Cereals & Bakery Products,Not Adj.,,2026,M03,Mar,365.909
+CUUR0000SAF112,Food & Beverages,"Meats, Poultry, Fish & Eggs",Not Adj.,,2026,M01,Jan,346.613
+CUUR0000SAF112,Food & Beverages,"Meats, Poultry, Fish & Eggs",Not Adj.,,2026,M02,Feb,346.309
+CUUR0000SAF112,Food & Beverages,"Meats, Poultry, Fish & Eggs",Not Adj.,,2026,M03,Mar,345.203
+CUUR0000SAF1121,Food & Beverages,Beef & Veal,Not Adj.,,2026,M01,Jan,352.771
+CUUR0000SAF1121,Food & Beverages,Beef & Veal,Not Adj.,,2026,M02,Feb,352.668
+CUUR0000SAF1121,Food & Beverages,Beef & Veal,Not Adj.,,2026,M03,Mar,352.253
+CUUR0000SAF113,Food & Beverages,Dairy & Related Products,Not Adj.,,2026,M01,Jan,358.840
+CUUR0000SAF113,Food & Beverages,Dairy & Related Products,Not Adj.,,2026,M02,Feb,362.604
+CUUR0000SAF113,Food & Beverages,Dairy & Related Products,Not Adj.,,2026,M03,Mar,364.219
+CUUR0000SAF114,Food & Beverages,Fruits & Vegetables,Not Adj.,,2026,M01,Jan,235.761
+CUUR0000SAF114,Food & Beverages,Fruits & Vegetables,Not Adj.,,2026,M02,Feb,238.081
+CUUR0000SAF114,Food & Beverages,Fruits & Vegetables,Not Adj.,,2026,M03,Mar,237.455
+CUUR0000SAF115,Food & Beverages,Nonalcoholic Beverages,Not Adj.,,2026,M01,Jan,279.657
+CUUR0000SAF115,Food & Beverages,Nonalcoholic Beverages,Not Adj.,,2026,M02,Feb,282.185
+CUUR0000SAF115,Food & Beverages,Nonalcoholic Beverages,Not Adj.,,2026,M03,Mar,283.125
+CUUR0000SAF116,Food & Beverages,Other Food at Home,Not Adj.,,2026,M01,Jan,298.623
+CUUR0000SAF116,Food & Beverages,Other Food at Home,Not Adj.,,2026,M02,Feb,298.950
+CUUR0000SAF116,Food & Beverages,Other Food at Home,Not Adj.,,2026,M03,Mar,299.718
+CUUR0000SEFV,Food & Beverages,Food Away from Home,Not Adj.,"Restaurants, fast food, cafeterias",2026,M01,Jan,390.471
+CUUR0000SEFV,Food & Beverages,Food Away from Home,Not Adj.,"Restaurants, fast food, cafeterias",2026,M02,Feb,391.706
+CUUR0000SEFV,Food & Beverages,Food Away from Home,Not Adj.,"Restaurants, fast food, cafeterias",2026,M03,Mar,392.652
+CUUR0000SAH,Housing,Housing (total),Not Adj.,Largest CPI component (~42% weight),2026,M01,Jan,352.540
+CUUR0000SAH,Housing,Housing (total),Not Adj.,Largest CPI component (~42% weight),2026,M02,Feb,353.737
+CUUR0000SAH,Housing,Housing (total),Not Adj.,Largest CPI component (~42% weight),2026,M03,Mar,355.096
+CUUR0000SAH1,Housing,Shelter,Not Adj.,Rent + OER; ~34% of total CPI,2026,M01,Jan,421.526
+CUUR0000SAH1,Housing,Shelter,Not Adj.,Rent + OER; ~34% of total CPI,2026,M02,Feb,422.776
+CUUR0000SAH1,Housing,Shelter,Not Adj.,Rent + OER; ~34% of total CPI,2026,M03,Mar,424.450
+CUUR0000SAH2,Housing,Fuels & Utilities,Not Adj.,,2026,M01,Jan,342.177
+CUUR0000SAH2,Housing,Fuels & Utilities,Not Adj.,,2026,M02,Feb,343.386
+CUUR0000SAH2,Housing,Fuels & Utilities,Not Adj.,,2026,M03,Mar,345.233
+CUUR0000SAH3,Housing,Household Furnishings & Operations,Not Adj.,,2026,M01,Jan,154.138
+CUUR0000SAH3,Housing,Household Furnishings & Operations,Not Adj.,,2026,M02,Feb,155.188
+CUUR0000SAH3,Housing,Household Furnishings & Operations,Not Adj.,,2026,M03,Mar,155.381
+CUUR0000SEHA,Housing,Rent of Primary Residence,Not Adj.,Actual rent paid by renters,2026,M01,Jan,441.718
+CUUR0000SEHA,Housing,Rent of Primary Residence,Not Adj.,Actual rent paid by renters,2026,M02,Feb,442.157
+CUUR0000SEHA,Housing,Rent of Primary Residence,Not Adj.,Actual rent paid by renters,2026,M03,Mar,442.864
+CUUR0000SEHB,Housing,Owners' Equivalent Rent (OER),Not Adj.,Imputed cost for homeowners; largest single component,2026,M01,Jan,178.665
+CUUR0000SEHB,Housing,Owners' Equivalent Rent (OER),Not Adj.,Imputed cost for homeowners; largest single component,2026,M02,Feb,185.493
+CUUR0000SEHB,Housing,Owners' Equivalent Rent (OER),Not Adj.,Imputed cost for homeowners; largest single component,2026,M03,Mar,193.981
+CUUR0000SEHC,Housing,Rent of Shelter,Not Adj.,,2026,M01,Jan,435.241
+CUUR0000SEHC,Housing,Rent of Shelter,Not Adj.,,2026,M02,Feb,436.026
+CUUR0000SEHC,Housing,Rent of Shelter,Not Adj.,,2026,M03,Mar,437.086
+CUUR0000SEHE,Housing,Household Energy,Not Adj.,,2026,M01,Jan,357.514
+CUUR0000SEHE,Housing,Household Energy,Not Adj.,,2026,M02,Feb,388.261
+CUUR0000SEHE,Housing,Household Energy,Not Adj.,,2026,M03,Mar,457.911
+CUUR0000SEHF01,Housing,Electricity,Not Adj.,,2026,M01,Jan,299.731
+CUUR0000SEHF01,Housing,Electricity,Not Adj.,,2026,M02,Feb,296.798
+CUUR0000SEHF01,Housing,Electricity,Not Adj.,,2026,M03,Mar,299.028
+CUUR0000SEHF02,Housing,Utility (Piped) Gas Service,Not Adj.,,2026,M01,Jan,270.302
+CUUR0000SEHF02,Housing,Utility (Piped) Gas Service,Not Adj.,,2026,M02,Feb,277.644
+CUUR0000SEHF02,Housing,Utility (Piped) Gas Service,Not Adj.,,2026,M03,Mar,268.466
+CUUR0000SEHG,Housing,Window & Floor Coverings,Not Adj.,,2026,M01,Jan,324.919
+CUUR0000SEHG,Housing,Window & Floor Coverings,Not Adj.,,2026,M02,Feb,327.181
+CUUR0000SEHG,Housing,Window & Floor Coverings,Not Adj.,,2026,M03,Mar,328.792
+CUUR0000SAM,Medical Care,Medical Care (total),Not Adj.,,2026,M01,Jan,590.169
+CUUR0000SAM,Medical Care,Medical Care (total),Not Adj.,,2026,M02,Feb,592.593
+CUUR0000SAM,Medical Care,Medical Care (total),Not Adj.,,2026,M03,Mar,592.286
+CUUR0000SAM1,Medical Care,Medical Care Commodities,Not Adj.,"Drugs, medical equipment",2026,M01,Jan,418.270
+CUUR0000SAM1,Medical Care,Medical Care Commodities,Not Adj.,"Drugs, medical equipment",2026,M02,Feb,418.113
+CUUR0000SAM1,Medical Care,Medical Care Commodities,Not Adj.,"Drugs, medical equipment",2026,M03,Mar,414.032
+CUUR0000SAM2,Medical Care,Medical Care Services,Not Adj.,,2026,M01,Jan,645.667
+CUUR0000SAM2,Medical Care,Medical Care Services,Not Adj.,,2026,M02,Feb,648.936
+CUUR0000SAM2,Medical Care,Medical Care Services,Not Adj.,,2026,M03,Mar,649.873
+CUUR0000SEMC,Medical Care,Nonprescription Drugs,Not Adj.,,2026,M01,Jan,448.191
+CUUR0000SEMC,Medical Care,Nonprescription Drugs,Not Adj.,,2026,M02,Feb,450.994
+CUUR0000SEMC,Medical Care,Nonprescription Drugs,Not Adj.,,2026,M03,Mar,453.288
+CUUR0000SEMD,Medical Care,Physicians' Services,Not Adj.,,2026,M01,Jan,"1,185.918"
+CUUR0000SEMD,Medical Care,Physicians' Services,Not Adj.,,2026,M02,Feb,"1,196.487"
+CUUR0000SEMD,Medical Care,Physicians' Services,Not Adj.,,2026,M03,Mar,"1,198.677"
+CUUR0000SEME,Medical Care,Dental Services,Not Adj.,,2026,M01,Jan,142.337
+CUUR0000SEME,Medical Care,Dental Services,Not Adj.,,2026,M02,Feb,140.749
+CUUR0000SEME,Medical Care,Dental Services,Not Adj.,,2026,M03,Mar,138.741
+CUUR0000SEMF,Medical Care,Hospital & Related Services,Not Adj.,,2026,M01,Jan,136.673
+CUUR0000SEMF,Medical Care,Hospital & Related Services,Not Adj.,,2026,M02,Feb,136.436
+CUUR0000SEMF,Medical Care,Hospital & Related Services,Not Adj.,,2026,M03,Mar,135.004
+CUUR0000SEMG,Medical Care,Nursing Homes & Adult Day Care,Not Adj.,,2026,M01,Jan,112.381
+CUUR0000SEMG,Medical Care,Nursing Homes & Adult Day Care,Not Adj.,,2026,M02,Feb,113.857
+CUUR0000SEMG,Medical Care,Nursing Homes & Adult Day Care,Not Adj.,,2026,M03,Mar,113.562
+CUUR0000SAG,Other Goods & Services,Other Goods & Services (total),Not Adj.,,2026,M01,Jan,597.390
+CUUR0000SAG,Other Goods & Services,Other Goods & Services (total),Not Adj.,,2026,M02,Feb,598.208
+CUUR0000SAG,Other Goods & Services,Other Goods & Services (total),Not Adj.,,2026,M03,Mar,596.439
+CUUR0000SAG1,Other Goods & Services,Tobacco & Smoking Products,Not Adj.,,2026,M01,Jan,298.720
+CUUR0000SAG1,Other Goods & Services,Tobacco & Smoking Products,Not Adj.,,2026,M02,Feb,299.123
+CUUR0000SAG1,Other Goods & Services,Tobacco & Smoking Products,Not Adj.,,2026,M03,Mar,298.043
+CUUR0000SEGA,Other Goods & Services,Haircuts & Personal Care Services,Not Adj.,,2026,M01,Jan,"1,727.752"
+CUUR0000SEGA,Other Goods & Services,Haircuts & Personal Care Services,Not Adj.,,2026,M02,Feb,"1,730.321"
+CUUR0000SEGA,Other Goods & Services,Haircuts & Personal Care Services,Not Adj.,,2026,M03,Mar,"1,731.417"
+CUUR0000SEGB,Other Goods & Services,Personal Care Products,Not Adj.,,2026,M01,Jan,181.597
+CUUR0000SEGB,Other Goods & Services,Personal Care Products,Not Adj.,,2026,M02,Feb,182.953
+CUUR0000SEGB,Other Goods & Services,Personal Care Products,Not Adj.,,2026,M03,Mar,183.762
+CUUR0000SEGC,Other Goods & Services,Miscellaneous Personal Services,Not Adj.,,2026,M01,Jan,369.200
+CUUR0000SEGC,Other Goods & Services,Miscellaneous Personal Services,Not Adj.,,2026,M02,Feb,370.310
+CUUR0000SEGC,Other Goods & Services,Miscellaneous Personal Services,Not Adj.,,2026,M03,Mar,369.354
+CUUR0000SEGD,Other Goods & Services,Funeral Expenses,Not Adj.,,2026,M01,Jan,599.974
+CUUR0000SEGD,Other Goods & Services,Funeral Expenses,Not Adj.,,2026,M02,Feb,597.002
+CUUR0000SEGD,Other Goods & Services,Funeral Expenses,Not Adj.,,2026,M03,Mar,589.543
+CUUR0000SAR,Recreation,Recreation (total),Not Adj.,,2026,M01,Jan,143.627
+CUUR0000SAR,Recreation,Recreation (total),Not Adj.,,2026,M02,Feb,143.980
+CUUR0000SAR,Recreation,Recreation (total),Not Adj.,,2026,M03,Mar,143.898
+CUUR0000SERA,Recreation,Video & Audio Products,Not Adj.,,2026,M01,Jan,123.567
+CUUR0000SERA,Recreation,Video & Audio Products,Not Adj.,,2026,M02,Feb,122.171
+CUUR0000SERA,Recreation,Video & Audio Products,Not Adj.,,2026,M03,Mar,122.256
+CUUR0000SERB,Recreation,"Pets, Pet Products & Services",Not Adj.,,2026,M01,Jan,232.705
+CUUR0000SERB,Recreation,"Pets, Pet Products & Services",Not Adj.,,2026,M02,Feb,234.277
+CUUR0000SERB,Recreation,"Pets, Pet Products & Services",Not Adj.,,2026,M03,Mar,236.094
+CUUR0000SERC,Recreation,Sporting Goods,Not Adj.,,2026,M01,Jan,123.402
+CUUR0000SERC,Recreation,Sporting Goods,Not Adj.,,2026,M02,Feb,124.325
+CUUR0000SERC,Recreation,Sporting Goods,Not Adj.,,2026,M03,Mar,124.470
+CUUR0000SERD,Recreation,Photography,Not Adj.,,2026,M01,Jan,88.162
+CUUR0000SERD,Recreation,Photography,Not Adj.,,2026,M02,Feb,89.337
+CUUR0000SERD,Recreation,Photography,Not Adj.,,2026,M03,Mar,89.182
+CUUR0000SERE,Recreation,Other Recreation Commodities,Not Adj.,,2026,M01,Jan,33.169
+CUUR0000SERE,Recreation,Other Recreation Commodities,Not Adj.,,2026,M02,Feb,33.143
+CUUR0000SERE,Recreation,Other Recreation Commodities,Not Adj.,,2026,M03,Mar,33.499
+CUUR0000SERF,Recreation,Club Membership,Not Adj.,,2026,M01,Jan,212.038
+CUUR0000SERF,Recreation,Club Membership,Not Adj.,,2026,M02,Feb,213.450
+CUUR0000SERF,Recreation,Club Membership,Not Adj.,,2026,M03,Mar,211.550
+CUUR0000SERG,Recreation,Admissions,Not Adj.,,2026,M01,Jan,295.553
+CUUR0000SERG,Recreation,Admissions,Not Adj.,,2026,M02,Feb,295.890
+CUUR0000SERG,Recreation,Admissions,Not Adj.,,2026,M03,Mar,293.708
+CUUR0000SAT,Transportation,Transportation (total),Not Adj.,,2026,M01,Jan,267.521
+CUUR0000SAT,Transportation,Transportation (total),Not Adj.,,2026,M02,Feb,269.607
+CUUR0000SAT,Transportation,Transportation (total),Not Adj.,,2026,M03,Mar,283.431
+CUUR0000SAT1,Transportation,Private Transportation,Not Adj.,,2026,M01,Jan,266.280
+CUUR0000SAT1,Transportation,Private Transportation,Not Adj.,,2026,M02,Feb,268.005
+CUUR0000SAT1,Transportation,Private Transportation,Not Adj.,,2026,M03,Mar,282.369
+CUUR0000SETA01,Transportation,New Vehicles,Not Adj.,,2026,M01,Jan,178.668
+CUUR0000SETA01,Transportation,New Vehicles,Not Adj.,,2026,M02,Feb,178.841
+CUUR0000SETA01,Transportation,New Vehicles,Not Adj.,,2026,M03,Mar,179.000
+CUUR0000SETA02,Transportation,Used Cars & Trucks,Not Adj.,High volatility; closely watched,2026,M01,Jan,177.714
+CUUR0000SETA02,Transportation,Used Cars & Trucks,Not Adj.,High volatility; closely watched,2026,M02,Feb,175.559
+CUUR0000SETA02,Transportation,Used Cars & Trucks,Not Adj.,High volatility; closely watched,2026,M03,Mar,176.154
+CUUR0000SETA03,Transportation,Leased Cars & Trucks,Not Adj.,,2026,M01,Jan,113.077
+CUUR0000SETA03,Transportation,Leased Cars & Trucks,Not Adj.,,2026,M02,Feb,113.332
+CUUR0000SETA03,Transportation,Leased Cars & Trucks,Not Adj.,,2026,M03,Mar,113.054
+CUUR0000SETB01,Transportation,Gasoline (All Types),Not Adj.,Highly volatile energy component,2026,M01,Jan,254.887
+CUUR0000SETB01,Transportation,Gasoline (All Types),Not Adj.,Highly volatile energy component,2026,M02,Feb,263.378
+CUUR0000SETB01,Transportation,Gasoline (All Types),Not Adj.,Highly volatile energy component,2026,M03,Mar,328.874
+CUUR0000SETB02,Transportation,"Gasoline, Unleaded Regular",Not Adj.,,2026,M01,Jan,259.685
+CUUR0000SETB02,Transportation,"Gasoline, Unleaded Regular",Not Adj.,,2026,M02,Feb,268.403
+CUUR0000SETB02,Transportation,"Gasoline, Unleaded Regular",Not Adj.,,2026,M03,Mar,351.126
+CUUR0000SETC,Transportation,Motor Vehicle Insurance,Not Adj.,,2026,M01,Jan,186.920
+CUUR0000SETC,Transportation,Motor Vehicle Insurance,Not Adj.,,2026,M02,Feb,187.750
+CUUR0000SETC,Transportation,Motor Vehicle Insurance,Not Adj.,,2026,M03,Mar,189.059
+CUUR0000SETD,Transportation,Motor Vehicle Fees,Not Adj.,,2026,M01,Jan,440.175
+CUUR0000SETD,Transportation,Motor Vehicle Fees,Not Adj.,,2026,M02,Feb,444.107
+CUUR0000SETD,Transportation,Motor Vehicle Fees,Not Adj.,,2026,M03,Mar,449.675
+CUUR0000SETE,Transportation,Motor Vehicle Maintenance & Repair,Not Adj.,,2026,M01,Jan,892.491
+CUUR0000SETE,Transportation,Motor Vehicle Maintenance & Repair,Not Adj.,,2026,M02,Feb,897.406
+CUUR0000SETE,Transportation,Motor Vehicle Maintenance & Repair,Not Adj.,,2026,M03,Mar,897.145
+CUUR0000SETG01,Transportation,Airline Fares,Not Adj.,,2026,M01,Jan,271.190
+CUUR0000SETG01,Transportation,Airline Fares,Not Adj.,,2026,M02,Feb,280.621
+CUUR0000SETG01,Transportation,Airline Fares,Not Adj.,,2026,M03,Mar,290.226
