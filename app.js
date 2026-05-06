@@ -1,19 +1,27 @@
 // ── Column config ─────────────────────────────────────────────────────────────
 // Update these strings to match the exact column headers in your data file.
 var COL = {
+  seriesId:    'Series ID',
   category:    'Category',
   subcategory: 'Subcategory',
-  month:       'Month',
+  seasonalAdj: 'Seasonal Adj.',
+  notes:       'Notes',
   year:        'Year',
-  value:       'Value'
+  period:      'Period',
+  month:       'Month',
+  value:       'CPI Value'
 };
 
 // Columns rendered in the table (order determines display order).
 var TABLE_COLUMNS = [
+  { key: COL.seriesId,    label: 'Series ID' },
   { key: COL.category,    label: 'Category' },
   { key: COL.subcategory, label: 'Subcategory' },
-  { key: COL.month,       label: 'Month' },
+  { key: COL.seasonalAdj, label: 'Seasonal Adj.' },
+  { key: COL.notes,       label: 'Notes' },
   { key: COL.year,        label: 'Year' },
+  { key: COL.period,      label: 'Period' },
+  { key: COL.month,       label: 'Month' },
   { key: COL.value,       label: 'CPI Value', numeric: true }
 ];
 
